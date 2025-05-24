@@ -1,0 +1,4 @@
+kafka-python
+redis
+confluent_kafka
+python-dotenv
